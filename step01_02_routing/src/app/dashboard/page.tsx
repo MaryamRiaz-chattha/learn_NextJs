@@ -1,6 +1,6 @@
 const Dashboard = () => {
     console.log("This is Server");
-    return <div>Dashboard</div>;
+    return <div>Welcome to my Dashboard</div>;
   };
   
   export default Dashboard;
