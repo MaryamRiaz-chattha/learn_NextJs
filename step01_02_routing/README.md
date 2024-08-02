@@ -4,7 +4,6 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 First, run the development server:
 
-```bash
 npm run dev
 =>This project contains the step 01 and step 02 panaverse Learn next js by
 Jahanzaib Tayyab
@@ -14,5 +13,3 @@ Read the concepts of routing
 https://nextjs.org/docs/app/building-your-application/routing
 Linking and navigation
 https://nextjs.org/docs/app/building-your-application/routing/linking-and-navigating
-
-```
