@@ -20,7 +20,7 @@ export default function RootLayout({
     <html lang="en">
       <body className={inter.className}>
         <header className="bg-teal-800 p-4 flex gap-10">
-        <Link href="/home">Home</Link>
+        <Link href="/home">Mcoder</Link>
         <Link href="/dashboard">Dashboard</Link>
         <Link href="/settings">Settings</Link>
         <Link href="/blog">Blog</Link>
